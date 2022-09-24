@@ -23,7 +23,7 @@ header{
     display:flex;
     justify-content:space-between
 }
- 
+
 .logo{
     height:80px;
     display:flex;
@@ -68,7 +68,7 @@ header{
 }
 .menu-selected:hover::before{
     width: 100%;
-} 
+}
 
 .menu nav ul li a b{
     font-size: 18px;
@@ -79,10 +79,10 @@ header{
     border-radius: 8px;
     background-color: #46a2fd93;
     border: 2px solid #46a2fdc0;
-    
+
 }
 .menu nav ul li a:hover{
-    color:#3e63b1; 
+    color:#3e63b1;
     transition:color 300ms;
 }
 
